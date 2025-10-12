@@ -1,0 +1,3 @@
+TranslateXY: Move the image around by pressing arrow keys on keyboard and/or pressing the arrow buttons on screen
+
+About these drills: This is one of many coding exercise drills I have designed and created to keep my skills sharp, and practice the fundamentals. The purpose of these drills is to be able to pick one and throw it together in just a few minutes from scratch, without help from AI or libraries. Each exercise is meant to target different types of code, while being fast and fun!
